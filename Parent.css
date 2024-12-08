@@ -1,0 +1,79 @@
+.banner{
+    height: 10rem;
+    width: 50rem;
+    border: 1px solid grey;
+    
+
+}
+/* .content{
+    font-size: 10px;
+    margin-top: 20px;
+}
+.body{
+    color: red;
+    position: absolute;
+} */
+ .card1{
+    background-image: url("C:\Users\NIYA THOMAS\Desktop\internship\react\Reactproject\src\assets\banner2.png");
+    margin: 30px;
+    background-size: cover;
+    height: 250px;
+    width: 70rem;
+    border-radius: 10px;
+    border: 1px solid rgb(217, 205, 205);
+}
+.card2{
+    background-image: url("C:\Users\NIYA THOMAS\Desktop\internship\react\Reactproject\src\assets\banner1.png");
+    margin: 30px;
+    background-size: cover;
+    height: 250px;
+    width: 70rem;
+    border-radius: 10px;
+    border: 1px solid rgb(217, 205, 205);
+}
+.card3{
+    background-image: url("C:\Users\NIYA THOMAS\Desktop\internship\react\Reactproject\src\assets\banner3.jpg");
+
+    margin: 30px;
+    background-size: cover;
+    height: 250px;
+    width: 70rem;
+    border-radius: 10px;
+    border: 1px solid rgb(217, 205, 205);
+    
+}
+.content{
+    margin-left: 30rem;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(117, 117, 164);
+
+}
+.btn1{
+    background-color: white;
+    border: 3px solid rgb(140, 140, 200);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 0px;
+    color: rgb(117, 117, 164) ;
+    font-weight: bold;
+    font-size: 15px;
+}
+.content3{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn2{
+    background-color: white;
+    border: 3px solid rgb(140, 140, 200);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 0px;
+    color: rgb(117, 117, 164) ;
+    font-weight: bold;
+    font-size: 15px;
+}
+
